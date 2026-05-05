@@ -46,7 +46,7 @@ export default function ContactForm({ onSubmit }: ContactFormProps) {
             </div>
             <div>
               <p className="text-cream/50 text-sm">Email</p>
-              <p className="text-cream font-medium">contact@creastudio.com</p>
+              <p className="text-cream font-medium">stjeanbouh45@gmail.com</p>
             </div>
           </div>
 
@@ -56,7 +56,7 @@ export default function ContactForm({ onSubmit }: ContactFormProps) {
             </div>
             <div>
               <p className="text-cream/50 text-sm">Téléphone</p>
-              <p className="text-cream font-medium">+33 6 12 34 56 78</p>
+              <p className="text-cream font-medium">+225 05 64 41 18 67 / +225 01 52 75 40 90</p>
             </div>
           </div>
 
@@ -66,7 +66,7 @@ export default function ContactForm({ onSubmit }: ContactFormProps) {
             </div>
             <div>
               <p className="text-cream/50 text-sm">Localisation</p>
-              <p className="text-cream font-medium">Paris, France</p>
+              <p className="text-cream font-medium">Abidjan, Côte d'ivoire</p>
             </div>
           </div>
         </div>
