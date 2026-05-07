@@ -7,6 +7,7 @@
     "build": "vite build",
     "lint": "eslint --quiet ./src",
     "preview": "vite preview",
+    "vercel": "vercel",
     "postinstall": "echo 'Dependencies installed successfully'"
   },
   "dependencies": {

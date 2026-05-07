@@ -49,6 +49,12 @@ The `@/` path alias points to the `src/` directory
 pnpm i
 ```
 
+**Install Vercel CLI**
+
+```shell
+pnpm i -g vercel
+```
+
 **Start Preview**
 
 ```shell
